@@ -7,7 +7,7 @@ namespace BigSQLRunner.ConsoleApp
     /// <summary>
 	/// This indicates that it is start point to run
 	/// </summary>
-	class Program
+    internal class Program
 	{
 		/// <summary>
 		/// Write error to the log file and console
